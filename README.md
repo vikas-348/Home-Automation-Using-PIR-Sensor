@@ -20,7 +20,13 @@ Our proposed system would work without any manual intervention. We are
 going to build a system with two bluetooth modules where each of the modules
 will act as a master and receiver. The master would sense the human presence
 with the help of PIR sensor and the receiver will implement the output which is
-turning ON the Fa
+turning ON the Fan.
+
+# Group members: 
+ - [@Vikas Chaurasiya](https://github.com/vikas-348)
+ - [@Mukesh Gupta](https://github.com/mukesh2001)
+ - [@Ashly Jonh](https://github.com/ADJ46)
+ - [@Himanshu Chaurasiya](https://github.com/Himanshuchaurasiya1234)
 
 # System Design 
 ![System](Images/System.PNG)
