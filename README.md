@@ -14,7 +14,9 @@ ON and OFF.
 This project aims to develop an automated fan system using PIR sensor and
 HC-05 bluetooth module. It will work depending on the human presence
 in the room.
+
 ● To build a wireless fan system using HC-05 module and PIR sensor.
+
 ● To switch the fan ON if a person is present in the room.
 
 ## Proposed Solution
@@ -121,4 +123,9 @@ build an automated fan with human detector capabilities by using the PIR sensor
 which can be implemented in our homes. The work is focused mainly on human
 detection, and no other parameter is involved. This system can also be used to
 work with heavy home appliances like AC’s with few more modifications.The
-system built can be extremely useful for persons of physical disability
+system built can be extremely useful for persons of physical disability.
+
+#Documentations:
+- [Project PPT](Documents/Project.pptx)
+- [Project Report](Documents/Project.pptx)
+
