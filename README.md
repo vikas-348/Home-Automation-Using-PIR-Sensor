@@ -116,12 +116,13 @@ between the battery and FAN. After receiving the signal FAN will star
 
 
 # Conclusion 
-Main purpose of home automation systems is to provide ease to people to
+- Main purpose of home automation systems is to provide ease to people to
 control different home appliances and to save electricity, time and money. We
-have developed an automated fan system. The purpose of this project was to
-build an automated fan with human detector capabilities by using the PIR sensor
+have developed an automated fan system. 
+- The purpose of this project was to build an automated fan with human detector capabilities by using the PIR sensor
 which can be implemented in our homes. The work is focused mainly on human
-detection, and no other parameter is involved. This system can also be used to
+detection, and no other parameter is involved.
+- This system can also be used to
 work with heavy home appliances like AC’s with few more modifications.The
 system built can be extremely useful for persons of physical disability.
 
