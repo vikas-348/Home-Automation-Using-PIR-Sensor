@@ -24,6 +24,7 @@ turning ON the Fa
 
 # System Design 
 ![System](Images/System.PNG)
+
 The transmitter and receiver are the two components of our project. The signal
 will be sent by the transmitter, and the signal will be received by the receiver,
 yielding the resultant output of the fan turning on. The transmitter is made up of
@@ -56,6 +57,7 @@ receiver
 ```
 # Flowchart for Master/Slave
 ![System](Images/Methodology.PNG)
+
 The above image shows the flowchart for the function of an automated fan
 using PIR sensor. The PIR sensor would detect human presence, send the signal
 Yes or No. If the value is Yes the relay module will switch the circuit Off which
@@ -66,6 +68,7 @@ OFF.
 
 # Connection of Slave/Receiver
 ![System](Images/Slave.PNG)
+
 In the above image the GND and the 13V of the arduino are connected with IN
 and GND of the relay module respectively.The VCC of the relay module is
 connected with the 5V of the arduino.Here HC-05 module acts as a receiver.
@@ -78,6 +81,7 @@ connected with is connected with 5V of arduino.
 
 # Connection of Master/Transmitter
 ![System](Images/Master.PNG)
+
 In the above image the GND and OUT of PIR sensor connected with GND and
 13V of arduino respectively.The VCC of PIR sensor is connected with ground
 with arduino.
@@ -88,12 +92,14 @@ GND and 5V arduino respectively
 
 # Human Presence is detected by Master
 ![System](Images/HumanPresence.PNG)
+
 In the above image the PIR sensor is sensing the human presence and HC-05
 module which (acting as a transmitter) sends the signal to another HC-05
 receiver module
 
 # Slave starts the Fan
 ![System](Images/SlaveStartfan.PNG)
+
 In the above image the HC-05 received signals from the HC-05 transmitter
 module and there is relay module which act as the main switching system
 between the battery and FAN. After receiving the signal FAN will star
