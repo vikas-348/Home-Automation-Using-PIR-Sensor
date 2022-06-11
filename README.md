@@ -52,13 +52,13 @@ receiver
 # System requirements
 ## Hardware requirements
 ```
-•	Arduino Uno R3 sensor (X2)
-•	PIR Sensor 
-•	HC-05 module(X2)
-•	DC Fan 12V
-•	12V Battery
-•	Relay Module
-•	Bradboard (X2) 
+-Arduino Uno R3 sensor (X2)
+-PIR Sensor 
+-HC-05 module(X2)
+-DC Fan 12V
+-12V Battery
+-Relay Module
+-Bradboard (X2) 
 ```
 ## Software Requirements 
 ```
@@ -125,7 +125,7 @@ detection, and no other parameter is involved. This system can also be used to
 work with heavy home appliances like AC’s with few more modifications.The
 system built can be extremely useful for persons of physical disability.
 
-# Documentations:
+#Documentations:
 - [Project PPT](Documents/Project.pptx)
 - [Project Report](Documents/Project.pptx)
 
