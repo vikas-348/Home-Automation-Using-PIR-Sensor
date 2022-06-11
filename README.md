@@ -3,8 +3,10 @@
 ## Introduction
 The recent development in sensor networks has lead to high uses of sensors
 for home automation purposes.
+
 • This project develops an automatic fan switching system by sensing the
 presence of human beings.
+
 • The project aims to save electricity and the manual need of fan switching
 ON and OFF.
 
