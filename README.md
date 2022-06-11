@@ -52,13 +52,13 @@ receiver
 # System requirements
 ## Hardware requirements
 ```
-- Arduino Uno R3 sensor (X2)
-- PIR Sensor 
-- HC-05 module(X2)
-- DC Fan 12V
-- 12V Battery
-- Relay Module
-- Bradboard (X2) 
+1.Arduino Uno R3 sensor (X2)
+2.PIR Sensor 
+3.HC-05 module(X2)
+4.DC Fan 12V
+5.12V Battery
+6.Relay Module
+7.Bradboard (X2) 
 ```
 ## Software Requirements 
 ```
