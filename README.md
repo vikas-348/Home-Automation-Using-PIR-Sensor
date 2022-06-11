@@ -125,7 +125,7 @@ detection, and no other parameter is involved. This system can also be used to
 work with heavy home appliances like AC’s with few more modifications.The
 system built can be extremely useful for persons of physical disability.
 
-#Documentations:
+# Documentations:
 - [Project PPT](Documents/Project.pptx)
 - [Project Report](Documents/Project.pptx)
 
