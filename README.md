@@ -29,7 +29,7 @@ turning ON the Fan.
 # Group members: 
  - [@Vikas Chaurasiya](https://github.com/vikas-348)
  - [@Mukesh Gupta](https://github.com/mukesh2001)
- - [@Ashly Jonh](https://github.com/ADJ46)
+ - [@Ashly John](https://github.com/ADJ46)
  - [@Himanshu Chaurasiya](https://github.com/Himanshuchaurasiya1234)
 
 # System Design 
